@@ -1,4 +1,8 @@
-## Hi there 👋
+# Halo, saya ZonaAirdrop 👋
+
+![ZonaAirdrop's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZonaAirdrop&show_icons=true&theme=radical)
+
+![ZonaAirdrop's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZonaAirdrop&theme=radical)
 
 <!--
 **ZonaAirdrop/Zonaairdrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
